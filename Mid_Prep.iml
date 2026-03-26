@@ -7,6 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/AbstractFactoryPattern" />
       <excludeFolder url="file://$MODULE_DIR$/src/DecoratorPattern" />
       <excludeFolder url="file://$MODULE_DIR$/src/FactoryPattern" />
+      <excludeFolder url="file://$MODULE_DIR$/src/SingletonPattern" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
