@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/AbstractFactoryPattern" />
+      <excludeFolder url="file://$MODULE_DIR$/src/DecoratorPattern" />
       <excludeFolder url="file://$MODULE_DIR$/src/FactoryPattern" />
     </content>
     <orderEntry type="inheritedJdk" />
